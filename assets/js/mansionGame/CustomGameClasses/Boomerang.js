@@ -150,7 +150,7 @@ class Boomerang extends Character {
         } else {
             const enemy = enemies[0];
             if (enemy.stage >= 3) {
-                ATTACK_MODIFIER = 1.2;
+                ATTACK_MODIFIER = 1.25;
             } else {
                 ATTACK_MODIFIER = 1;
             }
