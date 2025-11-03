@@ -85,7 +85,9 @@ This level will provide the player with the final key that they need to escape t
     In this room, there is the actual boss fight. This boss fight is designed to be hard to the point that the player takes multiple attempts to beat it.
 </p>
 
-<p>ADD BOSS ROOM IMAGE HERE WHEN FINISHED</p>
+<img src="{{site.baseurl}}/images/mansionGameBlog/BossRoom.png" alt="Boss Room">
+
+
 
 </body>
 </html>
