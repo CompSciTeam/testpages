@@ -96,8 +96,8 @@ In the boss room, you are met with several things. First, the background. This b
 <p>
 Next are the health bars. There are 2 healthbars, the boss's and your own's. Both health bars are designed to go down when the player or boss takes damage. 
 
-
-
+<img src="{{site.baseurl}}/images/mansionGameBlog/BossHealthBar.png" alt="Boss health bar">
+<img src="{{site.baseurl}}/images/mansionGameBlog/PlayerHealthBar.png" alt="Player Health bar">
 </body>
 </html>
 
