@@ -85,22 +85,8 @@ This level will provide the player with the final key that they need to escape t
     In this room, there is the actual boss fight. This boss fight is designed to be hard to the point that the player takes multiple attempts to beat it.
 </p>
 
-<img src="{{site.baseurl}}/images/mansionGameBlog/BossRoom.png" alt="Boss Room">
+<p>ADD BOSS ROOM IMAGE HERE WHEN FINISHED</p>
 
-<p>
-In the boss room, you are met with several things. First, the background. This background is a tiled floor pattern that we found to put for the boss room.
-<p>
-
-<img src="{{site.baseurl}}/images/mansionGame/bossFloorPattern.png" alt="Boss Floor">
-
-<p>
-Next are the health bars. There are 2 healthbars, the boss's and your own's. Both health bars are designed to go down when the player or boss takes damage. 
-<p>
-<img src="{{site.baseurl}}/images/mansionGameBlog/BossHealthBar.png" alt="Boss health bar">
-<img src="{{site.baseurl}}/images/mansionGameBlog/PlayerHealthBar.png" alt="Player Health bar">
-<p>
-
-<p>
 </body>
 </html>
 
